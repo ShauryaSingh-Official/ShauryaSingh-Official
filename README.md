@@ -2,11 +2,11 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
+- 👨🏻‍💻 &nbsp; MERN STACK DEVELOPER | JAVASCRIPT FULL STACK DEVELOPER | WEB DEVELOPER
 
 - 🔭 &nbsp; I’m currently learning MERN Stack Development .
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying B.TECH in Computer Science Engineering, computer programming and Web Developement Technologies.
-- 💼 &nbsp; MERN stack developer and front-end web developer.
+- 🎓 &nbsp; Completed B.TECH in Computer Science Engineering in Ist division with distinction, computer programming and Web Developement Technologies.
 - 🌱 &nbsp; Enthusiast to deep dive in related technologys and master a technology .
 - ✍️ &nbsp; Watching UI/UX designs and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -14,8 +14,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Python | DSA | OOPs   
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS |  
-- 🌐 &nbsp; NodeJs | ExpressJs | Redux | ReactJS |  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Redux | ReactJS | Bootstrap  
+- 💼 &nbsp; NodeJs | ExpressJs | Node Packages
 - 🛢 &nbsp; MySQL | MongoDB  
 - 🔧 &nbsp; Visual Studio code | APIs | Git | Postman
 - 🖥 &nbsp; MicroSoft Office| Photoshop | Paint | Sketching Tools .
